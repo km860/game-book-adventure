@@ -1,0 +1,21 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid darkgrey;
+}
+#header-one {
+    font-family:"Copperplate Gothic Bold";
+    font-size: 300%;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+#enter {
+    text-align: center;
+
+}
+/*#enter::first-letter {
+    font-size: 2em;
+}*/
